@@ -28,7 +28,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{25°C - PLA/PETG}}$
+### • $\color{#616161}{\textbf{25°C - PLA/PETG}}$
 
 #### PLA
 #### PETG
@@ -36,7 +36,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{45°C - ABS blends}}$
+### • $\color{#600100}{\textbf{45°C - ABS blends}}$
 
 #### ABS/ASA
 #### Not PC
@@ -44,7 +44,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{60°C - Proper ABS}}$
+### • $\color{#970000}{\textbf{60°C - Proper ABS}}$
 
 #### ABS/ASA
 #### Not PC
@@ -52,7 +52,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{80°C - ABS heaven}}$
+### • $\color{#D50100}{\textbf{80°C - ABS heaven}}$
 
 #### ABS/ASA
 #### Not PC
@@ -60,7 +60,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{130°C - PC/PEKK}}$
+### • $\color{#FF7800}{\textbf{130°C - PC/PEKK}}$
 
 #### ABS/ASA
 #### Not PC
@@ -68,7 +68,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{180°C - Ultem/Sulfones}}$
+### • $\color{#FFDC00}{\textbf{180°C - Ultem/Sulfones}}$
 
 #### ABS/ASA
 #### Not PC
@@ -76,7 +76,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{250°C - TPI}}$
+### • $\color{#FFFF00}{\textbf{250°C - TPI}}$
 
 #### ABS/ASA
 #### Not PC
@@ -98,7 +98,7 @@ Plastic filaments can be commonly found with a lot of different options, them be
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{25°C - Ambient}}$
+### • $\color{#616161}{\textbf{25°C - Ambient}}$
 
 #### - What dies:
 todo dead
@@ -108,7 +108,7 @@ todo use
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{45°C - Enclosed box}}$
+### • $\color{#600100}{\textbf{45°C - Enclosed box}}$
 
 #### - What dies:
 todo dead
@@ -118,7 +118,7 @@ todo use
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{60°C - Properly sealed printer chamber}}$
+### • $\color{#970000}{\textbf{60°C - Properly sealed printer chamber}}$
 
 #### - What dies:
 todo dead
@@ -128,7 +128,7 @@ todo use
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{75°C - Limit of a standard machine}}$
+### • $\color{#D50100}{\textbf{75°C - Limit of a standard machine}}$
 
 #### - What dies:
 todo dead
@@ -138,7 +138,7 @@ todo use
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{120°C - Standard printer design with HT rated components}}$
+### • $\color{#FF7800}{\textbf{120°C - Standard printer design with HT rated components}}$
 
 #### - What dies:
 todo dead
@@ -148,7 +148,7 @@ todo use
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{150°C - Standard printer design with HT rated components (high maintenance requirement)}}$
+### • $\color{#FFB700}{\textbf{150°C - Standard printer design with HT rated components (high maintenance requirement)}}$
 
 #### - What dies:
 todo dead
@@ -158,7 +158,7 @@ todo use
 </br>
 
 <!-------------------------------------------->
-### • $\color{#f00}{\textbf{250°C - Completely custom machine}}$
+### • $\color{#FFFF00}{\textbf{250°C - Completely custom machine}}$
 
 #### - What dies:
 todo dead
