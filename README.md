@@ -101,9 +101,9 @@ Plastic filaments can be commonly found with a lot of different options, them be
 ### • $\color{#616161}{\textbf{25°C - Ambient}}$
 
 #### - What dies:
-todo dead
+- Everything will be ok
 #### - What to use:
-todo use
+- Anything is fine
 
 </br>
 
@@ -111,9 +111,10 @@ todo use
 ### • $\color{#600100}{\textbf{45°C - Enclosed box}}$
 
 #### - What dies:
-todo dead
+- Having the electronics outside of the chamber is preferred
+- PLA parts will die, PETG parts will slowly deform
 #### - What to use:
-todo use
+- Anything is still fine
 
 </br>
 
@@ -121,9 +122,9 @@ todo use
 ### • $\color{#970000}{\textbf{60°C - Properly sealed printer chamber}}$
 
 #### - What dies:
-todo dead
+- Normal greases
 #### - What to use:
-todo use
+- GPL225 grease or equivalent
 
 </br>
 
@@ -131,9 +132,18 @@ todo use
 ### • $\color{#D50100}{\textbf{75°C - Limit of a standard machine}}$
 
 #### - What dies:
-todo dead
+- PVC wires will degrade
+- Class B (130°) steppers could go out of spec
+- Parts printed with ABS blends will start to creep
+- Fans will have reduced lifespans
+- Acrylic Panels will warp
 #### - What to use:
-todo use
+- Silicone or PTFE/FEP wires
+- Class H (180°) steppers
+- Unblended ABS printed parts or better
+- Good quality fans
+- PC Panels or better
+- GPL226 grease or equivalent
 
 </br>
 
@@ -141,14 +151,20 @@ todo use
 ### • $\color{#FF7800}{\textbf{120°C - Standard printer design with HT rated components}}$
 
 #### - What dies:
-todo dead
+- Plastic endcaps on the linear rails can start to harden
+- PC panels will start to warp
+- Printed parts will fail if not printed with HT polymers
+- Nearly every fan will die quickly
 #### - What to use:
-todo use
+- All metal rails are preferred
+- Metal panels (Aluminium or Steel depending on the frame material)
+- Metal parts (lasercut, SLM, or milled) or parts printed with HT polymers (PC-CF/GF, PSU, PPSU, PEI-CF/GF, PPS-CF, PEKK-CF/GF)
+- Watercooling is preferred, but Delta fans have been reported to survive ok, just with shorter lifespans
 
 </br>
 
 <!-------------------------------------------->
-### • $\color{#FFB700}{\textbf{150°C - Standard printer design with HT rated components (high maintenance requirement)}}$
+### • $\color{#FFB700}{\textbf{150°C - Standard printer design with HT rated components (high maintenance)}}$
 
 #### - What dies:
 todo dead
