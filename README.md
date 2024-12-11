@@ -38,16 +38,16 @@ Plastic filaments can be commonly found with a lot of different options, them be
 <!-------------------------------------------->
 ### • $\color{#600100}{\textbf{45°C - ABS blends}}$
 
-#### ABS/ASA
-#### Not PC
+#### ABS+
+#### Comment
 
 </br>
 
 <!-------------------------------------------->
-### • $\color{#970000}{\textbf{60°C - Proper ABS}}$
+### • $\color{#970000}{\textbf{60°C - Unblended ABS starts to work}}$
 
 #### ABS/ASA
-#### Not PC
+#### Comment
 
 </br>
 
@@ -55,31 +55,31 @@ Plastic filaments can be commonly found with a lot of different options, them be
 ### • $\color{#D50100}{\textbf{80°C - ABS heaven}}$
 
 #### ABS/ASA
-#### Not PC
+#### PC blends
 
 </br>
 
 <!-------------------------------------------->
 ### • $\color{#FF7800}{\textbf{130°C - PC/PEKK}}$
 
-#### ABS/ASA
-#### Not PC
+#### Pure PC
+#### Comment
 
 </br>
 
 <!-------------------------------------------->
 ### • $\color{#FFDC00}{\textbf{180°C - Ultem/Sulfones}}$
 
-#### ABS/ASA
-#### Not PC
+#### Comment
+#### Comment
 
 </br>
 
 <!-------------------------------------------->
 ### • $\color{#FFFF00}{\textbf{250°C - TPI}}$
 
-#### ABS/ASA
-#### Not PC
+#### Comment
+#### Comment
 
 </br>
 
